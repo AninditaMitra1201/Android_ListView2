@@ -12,5 +12,7 @@ public class Oblist {
         this.msg = msg;
         this.time = time;
         this.dp = dp;
+
+
     }
 }
